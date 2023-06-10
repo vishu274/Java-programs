@@ -1,0 +1,25 @@
+class Functions{
+public void withoutarugumentwithoutreturn(){
+}
+System.out.println("withoutargumentswithoutreturn");
+}
+
+public void witharugmentswithoutreturn( int a){
+System.out.println("witharguentswithoutreturn")
+}
+public void withoutargumentswithreturn(){
+return 1
+}
+
+
+public static void main(String args[]){
+}
+Functions fun = new Function();
+fun.withoutargumentswithoutreturn();
+fun.witharguentswithoutreturn(10);
+
+
+
+}
+
+

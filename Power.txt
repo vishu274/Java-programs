@@ -1,0 +1,18 @@
+public class Power {
+    public static int Power(int base, int exponent) {
+        int result = (int) Math.pow(base, exponent);
+        return result;
+    }
+
+    public static void main(String[] args) {
+        int base1 = 2;
+        int exponent1 = 3;
+        int result1 = Power(base1, exponent1);
+        System.out.println("Result is " + result1);
+
+        int base2 = 3;
+        int exponent2 = 5;
+        int result2 = Power(base2, exponent2);
+        System.out.println("Result is " + result2);
+    }
+}

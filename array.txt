@@ -1,0 +1,10 @@
+
+import java.util.Scanner;
+class Array{
+public static void main (String args[]){
+Scanner s = new Scanner(System.in)
+int [] a = new int[i];
+System.out.println("enter the size of an array=" a[i]);
+
+}
+}

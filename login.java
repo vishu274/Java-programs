@@ -2,10 +2,7 @@ import java.util.Scanner;
 class login{
 	String username;
 	String password;
-	int A;
-	int B;
-	int C;
-	int D;
+	
 
 	Scanner  s =  new Scanner(System.in);
 	public login() {
